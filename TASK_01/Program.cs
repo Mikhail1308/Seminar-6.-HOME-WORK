@@ -27,7 +27,5 @@ int CountToPositivNumber(int[] array)
 }
 
 InputNumber(m);
-// int[] numbersArray = CreateNumbersArray();
-// PrintArray(numbersArray, "Массив:");
 Console.WriteLine($"Введено чисел > 0:  {CountToPositivNumber(arrayNumbersM)} ");
 Console.WriteLine();
